@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+img {
+    width: 100vw;
+}
+
+a {
+    display: block;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(168, 4, 4);
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    background-color: red;
+}
